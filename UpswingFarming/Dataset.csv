@@ -1,0 +1,46 @@
+State ,City,Season,Crop1,Crop2,Crop3
+MA,Boston,Winter,Crop1,Crop3,Crop2
+MA,Boston,Fall ,Crop5,Crop3,Crop1
+MA,Boston,Autumn,Crop7,Crop6,Crop2
+MA,Revere,Winter ,Crop10,Crop3,Crop5
+MA,Revere,Fall ,Crop5,Crop3,Crop7
+MA,Revere,Autumn,Crop5,Crop3,Crop8
+MA,Newton,Winter ,Crop5,Crop1,Crop2
+MA,Newton,Fall ,Crop5,Crop7,Crop3
+MA,Newton,Autumn,Crop7,Crop5,Crop1
+TX,Houston,Winter ,Crop7,Crop8,Crop2
+TX,Houston,Fall ,Crop8,Crop7,Crop2
+TX,Houston,Autumn,Crop3,Crop7,Crop2
+TX,Dallas,Winter ,Crop8,Crop3,Crop10
+TX,Dallas,Fall ,Crop6,Crop4,Crop7
+TX,Dallas,Autumn,Crop8,Crop10,Crop6
+TX,Austin,Winter ,Crop7,Crop2,Crop8
+TX,Austin,Fall ,Crop6,Crop3,Crop2
+TX,Austin,Autumn,Crop3,Crop6,Crop2
+CA,Los Angeles,Winter ,Crop3,Crop7,Crop2
+CA,Los Angeles,Fall ,Crop8,Crop3,Crop10
+CA,Los Angeles,Autumn,Crop6,Crop3,Crop2
+CA,San Jose,Winter ,Crop3,Crop7,Crop2
+CA,San Jose,Fall ,Crop8,Crop3,Crop10
+CA,San Jose,Autumn,Crop3,Crop7,Crop2
+CA,San Diego,Winter ,Crop6,Crop3,Crop2
+CA,San Diego,Fall ,Crop7,Crop8,Crop2
+CA,San Diego,Autumn,Crop8,Crop7,Crop2
+NY,New York City,Winter ,Crop3,Crop7,Crop2
+NY,New York City,Fall ,Crop5,Crop3,Crop1
+NY,New York City,Autumn,Crop7,Crop6,Crop2
+NY,Buffalo,Winter ,Crop7,Crop6,Crop2
+NY,Buffalo,Fall ,Crop10,Crop3,Crop5
+NY,Buffalo,Autumn,Crop6,Crop3,Crop2
+NY,Rochester,Winter ,Crop3,Crop6,Crop2
+NY,Rochester,Fall ,Crop3,Crop7,Crop2
+NY,Rochester,Autumn,Crop8,Crop10,Crop6
+NJ,Newark,Winter ,Crop7,Crop2,Crop8
+NJ,Newark,Fall ,Crop10,Crop3,Crop5
+NJ,Newark,Autumn,Crop6,Crop3,Crop2
+NJ,Jersey City,Winter ,Crop7,Crop6,Crop2
+NJ,Jersey City,Fall ,Crop10,Crop3,Crop5
+NJ,Jersey City,Autumn,Crop6,Crop4,Crop7
+NJ,Paterson,Winter ,Crop8,Crop10,Crop6
+NJ,Paterson,Fall ,Crop7,Crop2,Crop8
+NJ,Paterson,Autumn,Crop6,Crop3,Crop2
